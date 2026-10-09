@@ -1,0 +1,6 @@
+{
+  "name": "AuraNutrient & ChronoHydra",
+  "description": "Tactile horological nutrition chronometer and hydration vessel tracking system with precision archival ledger and AI food scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
